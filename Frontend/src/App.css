@@ -1,0 +1,12 @@
+bg-custom{
+    background-color: rgb(54 71 196);
+}
+.hide-scrollbar {
+    overflow-y: scroll; 
+    scrollbar-width: none; /* For Firefox */
+  }
+  
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none; /* For Chrome, Safari, and Edge */
+  }
+  
